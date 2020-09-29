@@ -7,5 +7,4 @@ Our project focuses on designing a medical class II Passive DVT Prevention Devic
 ![Image of Calve Muscles](https://www.susaningraham.net/imgs/calf-muscles.jpg)
 ## Project Status:
 This project is still in the early scoping phases, but there will be more information to come as the project scope is more clearly defined and software, hardware, and material solutions are procured. 
-##Last Updated: 9/29/2020
-## References:
+## Last Updated: 9/29/2020
